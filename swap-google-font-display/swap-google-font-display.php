@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Swap Google Fonts Display: Improve Font Rendering & Performance
+ * Plugin Name:       Swap Google Fonts Display
  * Plugin URI:        https://wordpress.org/plugins/swap-google-font-display/
  * Description:       Ensure text remains visible during webfont load, reduce FOUT, and improve performance for a smoother user experience.
  * Version:           1.1.1
